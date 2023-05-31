@@ -6,6 +6,7 @@ tags: [Archlinux,Android]
 image: arch.png
 categories:
     - Program
+    - Guidance
 ---
 ## 前言
 本來有寫這個博客的想法，但無奈最近時間比較忙 
@@ -297,6 +298,7 @@ ____
 ## 文章引用
 >- ### [Arch Linux安裝教學，KDE Plasma桌面＋中文輸入法](https://ivonblog.com/posts/install-archlinux/)
 >- ### [archlinux 基础安装](https://arch.icekylin.online/guide/)
+>- ### [如果你感覺Arch很耗電，可以看看這篇文章](https://fly.meow-2.com/post/records/tlp-for-power-saving.html)
 
 
 
